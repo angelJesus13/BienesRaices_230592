@@ -6,13 +6,13 @@ Para por demostrar y aprender cómo la creacion y consumo de Interfaces de Progr
 
 | No. | Descripción                                                      | Estatus   | Potenciador | Fecha |
 |-----|------------------------------------------------------------------|-----------|-------------|-------|
-| 8   | Repositorio del Proyecto implementando .git ignore| 🔜 Activa  |1| 17/OCT/2024 | 
+| 8   | Repositorio del Proyecto implementando .git ignore| Finalizada ✅ |1| 17/OCT/2024 | 
 
 
  
 ## AUTOR
 **Angel de Jesus Baños Tellez** [@T.S.U Angel](https://github.com/angelJesus13)
-Unidad 2
-Aplicaciones Web Orientada a Servicios
-Septiembre 2024
+Unidad 2 <br>
+Aplicaciones Web Orientada a Servicios <br>
+Septiembre 2024 <br>
 
